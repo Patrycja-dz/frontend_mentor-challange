@@ -1,0 +1,21 @@
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+li a{
+display: block;
+
+}
+
+
+/* figure{
+    display: flex;
+}
+figure img{
+    height: 360px;
+    width: 300px;
+   
+}  */
